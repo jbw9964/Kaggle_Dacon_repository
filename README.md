@@ -67,7 +67,7 @@ struct model using subclassing method
 ├── [3.4K]  utils.py
 ├── [ 30K]  models.py
 ├── [1.7K]  load_trained_model.py
-├── [  50]  __init__.py
+├── [  50]  ____init____.py
 ├── [ 192]  usage_example
 │   ├── [255K]  example_vgg16.ipynb
 │   ├── [124K]  example_lenet5.ipynb
@@ -85,7 +85,7 @@ struct model using subclassing method
 └── [ 320]  datasets
     ├── [ 119]  sampled_dataset.py
     ├── [ 105]  merged_dataset.py
-    ├── [  50]  __init__.py
+    ├── [  50]  ____init____.py
     ├── [  96]  sampled_dataset
     │   └── [8.9M]  sample_data.csv
     ├── [  64]  merged_dataset
