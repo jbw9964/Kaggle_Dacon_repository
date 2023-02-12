@@ -17,6 +17,10 @@ struct model using subclassing method
     - [667M]    :   datasets/A-Z Handwritten Alphabets in .csv format/A_Z Handwritten Data.csv
 
 
+
+------------------------------------------------------------------------
+
+view as raw file
 [Original Subclassing module]
 
 [ 320]  Subclassing
